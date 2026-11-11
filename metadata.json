@@ -1,0 +1,8 @@
+{
+  "name": "Smart Zakat",
+  "description": "Give your Zakat with confidence. Calculate annual Zakat, fund verified hospital bills, distribute transparently to eligible recipients, and track verified impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
